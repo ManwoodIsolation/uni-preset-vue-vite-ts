@@ -10,7 +10,7 @@
       <button 
         class="bg-blue-500 text-white p-2 rounded mr-2"
         @click="startBluetoothDevicesDiscovery">
-        搜索设备
+        开始搜索设备
       </button>
       <button 
         class="bg-green-500 text-white p-2 rounded"
