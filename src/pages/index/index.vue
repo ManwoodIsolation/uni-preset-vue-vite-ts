@@ -1,6 +1,6 @@
 <template>
   <view class="content p-4">
-    <!-- 蓝牙控制区域 -->
+    <!-- 蓝牙控制 -->
     <view class="mb-6">
       <button 
         class="bg-blue-500 text-white p-2 rounded mr-2"
