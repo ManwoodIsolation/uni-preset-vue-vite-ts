@@ -5,7 +5,7 @@
       <button 
         class="bg-blue-500 text-white p-2 rounded mr-2"
         @click="initBLE">
-        初始化蓝牙test
+        初始化蓝牙te
       </button>
       <button 
         class="bg-blue-500 text-white p-2 rounded mr-2"
